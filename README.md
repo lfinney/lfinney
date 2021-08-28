@@ -49,7 +49,17 @@ Settlor, a start-up focused on crafting the next generation of applications to s
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### Connect with me 👉🤓👉
+
+
+### 🤓 When I'm not coding I'm
+
+- Perfecting my Aeropress coffee-making process.
+- Riding bikes with my lovely wife--gravel & mountain.
+- Reading books--currently wrapping up Brandon Sanderson's _Mistborn_ trilogy.
+- Working on my drawing skills.
+- Watching/playing League of Legends.
+
+### 🤜🤛 Connect with me
 
 <a href="https://www.linkedin.com/in/lucas-finney/">
   <img align="left" src="https://raw.githubusercontent.com/lfinney/lfinney/main/images/linkedin.svg" alt="Luke Finney | LinkedIn" width="21px"/>
