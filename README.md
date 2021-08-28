@@ -16,6 +16,12 @@
 
 I think Computer Science is a massive open-source project all of humanity is working on together and I'm stoked to be a part of the effort.
 
+### 👉🤓👉 Connect with me:
+
+<a href="https://www.linkedin.com/in/lucas-finney/">
+  <img align="left" src="https://raw.githubusercontent.com/lfinney/lfinney/main/images/linkedin.svg" alt="Luke Finney | LinkedIn" width="21px"/>
+</a>
+
 <!--
 **lfinney/lfinney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
