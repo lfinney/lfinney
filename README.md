@@ -10,7 +10,11 @@
 </a>
 </p>
 
-### Hi there 👋
+<h3 align=”center”>
+  Hello there, I'm Luke Finney. I'm a Full-Stack Web Developer. 💻
+</h3>
+
+I think Computer Science is a massive open-source project all of humanity is working on together and I'm stoked to be a part of the effort.
 
 <!--
 **lfinney/lfinney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
