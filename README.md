@@ -17,10 +17,16 @@
 I think Computer Science is a massive open-source project all of humanity is working on together and I'm stoked to be a part of the effort.
 
 I work at
-<a href="https://settlor.com" target="_blank" rel="noreferrer">
+<a href="https://settlor.com" target="_blank">
   <img src="https://raw.githubusercontent.com/lfinney/lfinney/main/images/settlor.jpeg" alt="Settlor icon" width="21px" />
 </a>
 Settlor, a start-up focused on crafting the next generation of applications to support the nebulous title industry.
+
+### 🚀 I'm currently working on
+
+- Creating a portfolio website
+- Learning JS at a deeper level by working through <a href="https://www.kickstarter.com/projects/getify/you-dont-know-js-yet-second-edition-books/" target="_blank" alt="Link to YDKJS kickstart for the 2nd edition">YDKJS</a>
+- Adding Docker-skills to my developer's toolbox
 
 ### Connect with me 👉🤓👉
 
