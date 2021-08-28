@@ -53,11 +53,12 @@ Settlor, a start-up focused on crafting the next generation of applications to s
 
 ### 🤓 When I'm not coding I'm
 
-- Perfecting my Aeropress coffee-making process.
-- Riding bikes with my lovely wife--gravel & mountain.
-- Reading books--currently wrapping up Brandon Sanderson's _Mistborn_ trilogy.
-- Working on my drawing skills.
-- Watching/playing League of Legends.
+- Perfecting my Aeropress coffee-making process. ☕
+- Riding bikes with my lovely wife--gravel & mountain. 🚵
+- Listening to music and making playlists--<a href="https://music.apple.com/us/profile/lucaswfinney"  target="_blank">Catch me on Apple Music</a>. 💿
+- Reading books, mostly sci-fi, fantasy, and history--currently wrapping up Brandon Sanderson's _Mistborn_ trilogy. 📚
+- Working on my drawing skills. 🖋️
+- Watching/playing League of Legends. 🕹️
 
 ### 🤜🤛 Connect with me
 
