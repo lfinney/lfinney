@@ -49,12 +49,6 @@ Settlor, a start-up focused on crafting the next generation of applications to s
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📈 GitHub Stats
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lfinney)](https://github.com/lfinney)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lfinney&layout=compact)](https://github.com/lfinney)
-
 ### Connect with me 👉🤓👉
 
 <a href="https://www.linkedin.com/in/lucas-finney/">
