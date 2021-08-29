@@ -78,4 +78,4 @@ I work at Settlor
   <img align="left" src="https://raw.githubusercontent.com/lfinney/lfinney/main/images/linkedin.svg" alt="Luke Finney | LinkedIn" width="21px"/>
 </a>
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=lfinney.lfinney)](https://www.yushi.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=lfinney.lfinney)](https://lfinney.github.io/)
