@@ -5,7 +5,7 @@
   rel="noreferrer"
 >
   <img
-    src="https://user-images.githubusercontent.com/22566946/131231261-c86fa09d-5b6a-4e28-902a-beb9c2ef22d5.png" alt="my banner"
+    src="https://user-images.githubusercontent.com/22566946/131262155-74a0585e-5af0-4676-a5ed-b5ce78b4cc65.png" alt="my banner"
   >
 </a>
 </p>
