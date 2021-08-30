@@ -1,4 +1,4 @@
-<p align=”center”>
+<!-- <p align=”center”>
 <a
   href="https://lfinney.github.io/"
   target="_blank"
@@ -8,7 +8,7 @@
     src="https://user-images.githubusercontent.com/22566946/131262155-74a0585e-5af0-4676-a5ed-b5ce78b4cc65.png" alt="my banner"
   >
 </a>
-</p>
+</p> -->
 
 <h3 align=”center”>
   Hello there, I'm Luke Finney. I'm a Full-Stack Web Developer. 💻
