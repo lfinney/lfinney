@@ -77,7 +77,7 @@ I work at Settlor
 <a href="https://www.linkedin.com/in/lucas-finney/">
   <img align="left" src="https://raw.githubusercontent.com/lfinney/lfinney/main/images/linkedin.svg" alt="Luke Finney | LinkedIn" width="21px"/>
 </a>
-<a href="https://medium.com/@lucas.w.finney">
+<a href="https://medium.com/@luke.finney">
   <img align="left" src="https://raw.githubusercontent.com/lfinney/lfinney/main/images/medium.svg" alt="Luke Finney | Medium" width="21px"/>
 </a>
 
