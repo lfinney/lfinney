@@ -18,7 +18,7 @@ I think Computer Science is a massive open-source project all of humanity is wor
 
 I work at Settlor
 <a href="https://settlor.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/lfinney/lfinney/main/images/settlor.jpeg" alt="Settlor icon" width="21px" />
+  <img src="https://raw.githubusercontent.com/lfinney/lfinney/main/images/settlor.png" alt="Settlor icon" width="21px" />
 </a>
 , a start-up focused on crafting the next generation of applications to support the nebulous title industry.
 
