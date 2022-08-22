@@ -16,7 +16,7 @@
 
 I work at Settlor
 <a href="https://settlor.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/lfinney/lfinney/main/images/settlor.jpeg" alt="Settlor icon" width="21px" />
+  <img src="https://raw.githubusercontent.com/lfinney/lfinney/main/images/settlor.png" alt="Settlor icon" width="21px" />
 </a>
 , a start-up focused on crafting the next generation of applications to support the nebulous title industry.
 
@@ -74,6 +74,5 @@ I work at Settlor
 <a href="https://www.linkedin.com/in/lucas-finney/">
   <img align="left" src="https://raw.githubusercontent.com/lfinney/lfinney/main/images/linkedin.svg" alt="Luke Finney | LinkedIn" width="21px"/>
 </a>
-
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=lfinney.lfinney)](https://lfinney.github.io/)
