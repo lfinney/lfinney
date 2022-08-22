@@ -11,10 +11,8 @@
 </p> -->
 
 <h3 align=”center”>
-  Hello there, I'm Luke Finney. I'm a Full-Stack Web Developer. 💻
+  Hello there! I'm Luke Finney, a Full-Stack Web Developer. 💻
 </h3>
-
-I think Computer Science is a massive open-source project all of humanity is working on together and I'm stoked to be a part of the effort.
 
 I work at Settlor
 <a href="https://settlor.com" target="_blank">
@@ -22,13 +20,13 @@ I work at Settlor
 </a>
 , a start-up focused on crafting the next generation of applications to support the nebulous title industry.
 
-### 🚀 I'm currently working on
+### I'm currently working on
 
-- Creating a portfolio website
 - Learning JS at a deeper level by working through <a href="https://www.kickstarter.com/projects/getify/you-dont-know-js-yet-second-edition-books/" target="_blank" alt="Link to YDKJS kickstart for the 2nd edition">YDKJS</a>
 - Adding Docker-skills to my developer's toolbox
+- Learning how to use a GoPro and edit video
 
-### 🧰 Technical Skills
+### Technical Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![]()
@@ -63,22 +61,18 @@ I work at Settlor
 
 
 
-### 🤓 When I'm not coding I'm
+### When I'm not coding I'm
 
 - Perfecting my Aeropress coffee-making process. ☕
 - Riding bikes with my lovely wife--gravel & mountain. 🚵
 - Listening to music and making playlists--<a href="https://music.apple.com/us/profile/lucaswfinney"  target="_blank">Catch me on Apple Music</a>. 💿
-- Reading books, mostly sci-fi, fantasy, and history--currently wrapping up Brandon Sanderson's _Mistborn_ trilogy. 📚
+- Reading books, mostly sci-fi, fantasy, and history--just starting _Neuromancer_. 📚
 - Working on my drawing skills. 🖋️
-- Watching/playing League of Legends. 🕹️
 
-### 🤜🤛 Connect with me
+### Connect with me
 
 <a href="https://www.linkedin.com/in/lucas-finney/">
   <img align="left" src="https://raw.githubusercontent.com/lfinney/lfinney/main/images/linkedin.svg" alt="Luke Finney | LinkedIn" width="21px"/>
-</a>
-<a href="https://medium.com/@lucas.w.finney">
-  <img align="left" src="https://raw.githubusercontent.com/lfinney/lfinney/main/images/medium.svg" alt="Luke Finney | Medium" width="21px"/>
 </a>
 
 
