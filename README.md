@@ -18,7 +18,7 @@ I work at CardFree
 <a href="https://cardfree.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/lfinney/lfinney/main/images/cardfree-icon-logo.png" alt="CardFree icon" width="21px" />
 </a>
-, a leader in the digital commerce space, producing web and mobiles apps that empower restaurants, hotels, and other companies in the hospitality space.
+, a leader in the digital commerce space, producing web and mobiles apps that empower restaurants, hotels, and other companies in the hospitality industry.
 
 ### I'm currently working on
 
