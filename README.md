@@ -14,17 +14,17 @@
   Hello there! I'm Luke Finney, a Full-Stack Web Developer. 💻
 </h3>
 
-I work at Settlor
-<a href="https://settlor.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/lfinney/lfinney/main/images/settlor.png" alt="Settlor icon" width="21px" />
+I work at CardFree
+<a href="https://cardfree.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/lfinney/lfinney/main/images/cardfree-icon-logo.png" alt="CardFree icon" width="21px" />
 </a>
-, a start-up focused on crafting the next generation of applications to support the nebulous title industry.
+, a leader in the digital commerce space, producing web and mobiles apps that empower restaurants, hotels, and other companies in the hospitality space.
 
 ### I'm currently working on
 
-- Learning JS at a deeper level by working through <a href="https://www.kickstarter.com/projects/getify/you-dont-know-js-yet-second-edition-books/" target="_blank" alt="Link to YDKJS kickstart for the 2nd edition">YDKJS</a>
-- Adding Docker-skills to my developer's toolbox
-- Learning how to use a GoPro and edit video
+- Learning Vue.js at a deeper level, as the sole focus of my current web development work.
+- Mastering a green chili recipe.
+- Building off my <a href="https://youtu.be/f1Hu7aRuBHY", _target="blank">first, ever YouTube video</a> to ride more bikes and make more movies about riding bikes.
 
 ### Technical Skills
 
@@ -66,8 +66,9 @@ I work at Settlor
 - Perfecting my Aeropress coffee-making process. ☕
 - Riding bikes with my lovely wife--gravel & mountain. 🚵
 - Listening to music and making playlists--<a href="https://music.apple.com/us/profile/lucaswfinney"  target="_blank">Catch me on Apple Music</a>. 💿
-- Reading books, mostly sci-fi, fantasy, and history--just starting _Neuromancer_. 📚
-- Working on my drawing skills. 🖋️
+- Reading books, mostly sci-fi, fantasy, and history--recently finished and highly recommend the _Remembrance of Earth's Past_ triology. 📚
+- Learning how to shoot video with my trusty GoPro and edit them using DaVinci Resolve. 🖋️
+- Trying out new recipes and mastering my favorites in the kitchen.🧑🏼‍🍳
 
 ### Connect with me
 
