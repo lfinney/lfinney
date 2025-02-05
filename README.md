@@ -22,7 +22,7 @@ I work at CardFree
 
 ### I'm currently working on
 
-- Learning React after reaching a mastery of Vue2
+- Diving back into React after reaching a mastery of Vue2
 - Restroing my original Game Boy
 - Building off my <a href='https://youtu.be/f1Hu7aRuBHY' _target='blank'>first YouTube video</a>, I'm trying to learn more about video editing and cinematography
 
